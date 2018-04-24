@@ -1,0 +1,43 @@
+body {
+	overflow: hidden;
+}
+
+.Blob {
+	border-radius: 5px;
+	-webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+	box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+	margin: 30px;
+}
+
+.color-1 {
+	background-color: #12CC8B;
+}
+
+.color-2 {
+	background-color: #E82389;
+}
+
+.color-3 {
+	background-color: #056CD6;
+}
+
+.color-4 {
+	background-color: #F2C204;
+}
+
+.color-5 {
+	background-color: #D20013;
+}
+
+.color-6 {
+	background-color: #53009D;
+}
+
+.color-7 {
+	background-color: #1BD4E7;
+}
+
+.color-8 {
+	background-color: #4A4A4A;
+}
